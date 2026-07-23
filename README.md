@@ -13,9 +13,9 @@ to identify effectiveness drivers and distinguish systemic failures from operati
 ---
 
 ## Tools & Technologies
-- **SQL** — Business intelligence queries across two executive perspectives (DB Browser for SQLite)
-- **Python** — Exploratory analysis, visualizations and automated PDF report (Pandas, Matplotlib, Seaborn, fpdf2)
-- **Power BI** — Executive dashboard with dual leadership perspective
+- **SQL** - Business intelligence queries across two executive perspectives (DB Browser for SQLite)
+- **Python** - Exploratory analysis, visualizations and automated PDF report (Pandas, Matplotlib, Seaborn, fpdf2)
+- **Power BI** - Executive dashboard with dual leadership perspective
 
 ---
 
