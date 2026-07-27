@@ -25,7 +25,9 @@ Gas-operations-field-BI/
 ├── Data/
 │   └── data_source.md
 ├── PowerBI/
-│   └── placeholder.md
+│   ├── field_performance.png
+│   ├──  Gas_operation_analysis.pbix
+│   └── operations_overview.png
 ├── Python/
 │   ├── Gas_operation_analysis.ipynb
 │   ├── efectividad_centro.png
@@ -95,6 +97,9 @@ MEDIUM TERM - Differentiated territorial strategy for Bogota: visible technician
 ---
 
 ## Executive Dashboard
+## Executive Dashboard
+
+### Operations Overview
 ## Executive Dashboard
 
 ### Operations Overview
