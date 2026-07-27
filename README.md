@@ -95,7 +95,13 @@ MEDIUM TERM - Differentiated territorial strategy for Bogota: visible technician
 ---
 
 ## Executive Dashboard
-*(Power BI dashboard screenshots - coming soon)*
+## Executive Dashboard
+
+### Operations Overview
+![Operations Overview](PowerBI/Operation_overview.png)
+
+### Field Performance
+![Field Performance](PowerBI/Field_performance.png)
 
 ---
 
